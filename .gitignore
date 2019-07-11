@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Node/tsconfig.json
+/Node/src/index.ts
+/Node/src
+/Node/package.json
+/Node/.eslintrc.yaml
